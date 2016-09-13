@@ -1,9 +1,10 @@
 #Sogeti JavaScript Special Interest Group
-## About
 
 ##MISSION STATEMENT
 To create lightweight well-crafted first-class functionality that leverages the power of JavaScript. 
 Design to disrupt? Script to disrupt!
+
+## About
 
 ##Leads
 
