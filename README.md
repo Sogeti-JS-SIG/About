@@ -7,7 +7,6 @@ Design to disrupt? Script to disrupt!
 ## About
 
 ##Leads
-
 Group Lead: Alex Allala (aallala@us.sogeti.com)
 Group Co-Lead: Chalice Young (chalice.young@us.sogeti.com)
 
@@ -26,8 +25,5 @@ Angular 2.0
 Node
 
 ##Group Resources
-
 Communication - Slack - 
 Task Management - Trello -  Team Cards
-Certification Portal (internal)
-Group Documents (internal)
